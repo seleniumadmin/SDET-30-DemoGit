@@ -9,11 +9,7 @@ public class Demo {
 		System.out.println("User2-First Commit");
 		System.out.println("Sushmitha change");
 		System.out.println("Sushmitha change2");
-		
-		
-		
-		
-		
+		System.out.println("Sush change");
 		
 	}
 
